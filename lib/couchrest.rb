@@ -12,7 +12,7 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
-require 'rest_client'
+require 'restclient'
 require 'json'
 
 # Not sure why this is required, so removed until a reason is found!
